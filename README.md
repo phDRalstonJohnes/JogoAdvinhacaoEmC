@@ -6,6 +6,8 @@ A cada rodada o número secreto muda aleatóriamente.
 
 ![Animação](https://user-images.githubusercontent.com/98999057/171961779-3a40116e-d0b0-4775-8169-548218370165.gif)
 
+O jogo roda direto no terminal
+
 Ferramenta utilizada:
 
 -C
